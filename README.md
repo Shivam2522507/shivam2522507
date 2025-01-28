@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- Alaric Design [Alaric Design](https://alaricdesign.com/)
+
+- The Auto Focus [The Auto Focus](https://theautofocus.com/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Shivam2522507](https://github.com/Shivam2522507)
 
 - 📫 How to reach me **shivamkumar12dhr@gmail.com**
