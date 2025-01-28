@@ -2,7 +2,7 @@
 # 💫 About Me:
 Full-stack developer proficient in MERN/MEAN stack, HTML, CSS, JS, PHP, DSA in JS, Java, C/C++, and skilled graphic designer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam2522507&label=Profile%20views&color=0e75b6&style=flat" alt="shivam2522507" /> </p>
+
 
 - 🔭 I’m currently working on [Stellifian (Edtech MVP Development)](https://stelliproduction.daapen.com/)
 
