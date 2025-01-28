@@ -2,6 +2,22 @@
 # 💫 About Me:
 Full-stack developer proficient in MERN/MEAN stack, HTML, CSS, JS, PHP, DSA in JS, Java, C/C++, and skilled graphic designer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam2522507&label=Profile%20views&color=0e75b6&style=flat" alt="shivam2522507" /> </p>
+
+- 🔭 I’m currently working on [Stellifian (Edtech MVP Development)](https://stelliproduction.daapen.com/)
+
+- 🌱 I’m currently learning **React Native**
+
+- Alaric Design [Alaric Design](https://alaricdesign.com/)
+
+- The Auto Focus [The Auto Focus](https://theautofocus.com/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shivam2522507](https://github.com/Shivam2522507)
+
+- 📫 How to reach me **shivamkumar12dhr@gmail.com**
+
+- 📄 Know about my experiences [https://1drv.ms/b/s!AgIgrSMM2pu2jNUIvalNOBBUoWGjgg?e=LiODQi](https://1drv.ms/b/s!AgIgrSMM2pu2jNUIvalNOBBUoWGjgg?e=LiODQi)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam.kr.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamkumarsingh27) 
